@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts fork and PR practice
+Schell Scripts for reference
